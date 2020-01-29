@@ -1,0 +1,3 @@
+From G0OER
+
+The Funduino adapters for the LCD are at I2c address 0x027.
